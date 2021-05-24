@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Files2Doc": {
+      "commandName": "Project",
+      "commandLineArgs": "-x \"*.cs,*.aspx,*.ascx,*.ashx,*.js,*.html,*.resx,*.csproj,*.xsd,*.xss,*.xss,*.qqq\""
+    }
+  }
+}
